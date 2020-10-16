@@ -1,0 +1,30 @@
+.footer{
+    background-color: #FBD062;
+}
+.footer-top{
+    padding-top: 100px;
+    
+}
+.footer-top-content h1{
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 43px;
+    margin-bottom: 30px;
+    color: #2d2d2d;
+}
+.footer-top-content p{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.footer-bottom{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.footer-bottom p{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 25px;
+    
+}

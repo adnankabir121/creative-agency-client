@@ -1,0 +1,27 @@
+
+.list-container{
+    padding: 23px 18px;
+    background: white;
+    border-radius: 5px;
+}
+.list-header {
+    padding-top: 10px;
+    padding-left:5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    background: #F5F6FA;
+
+    border-radius: 8px;
+}
+.list-header p{
+    margin-bottom: 0px;
+}
+.lists{
+    border-bottom: 1px solid grey;
+}
+.list-data p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 300;
+    
+}

@@ -1,0 +1,33 @@
+.sidebar-area{
+    background: rgb(255, 255, 255);
+    height: 100vh;
+    padding: 40px;
+}
+.sidebar-area .logo{
+    width:150px;
+    
+}
+.sidebar-area ul img{
+    width:20px;
+    padding:0;
+    margin-right: 10px;
+}
+
+.sidebar-area ul{
+    margin: 30px 0px 0px 0px;
+    list-style-type: none;
+}
+
+.sidebar-area ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: rgb(42, 42, 42);
+    text-decoration: none;
+    padding: 10px 0;
+    display: block;
+    transition: .3s;
+    
+}
+.sidebar-area ul li a:hover{
+    color:#009444
+}

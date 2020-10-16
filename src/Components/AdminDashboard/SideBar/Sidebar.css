@@ -1,0 +1,22 @@
+.sidebar-area{
+    background: rgb(90, 194, 226);
+    height: 100vh;
+    padding: 40px;
+}
+.sidebar-area img{
+    width:150px;
+    padding-top: 20px;
+}
+.sidebar-area ul{
+    margin: 30px 0px 0px 0px;
+    list-style-type: none;
+}
+.sidebar-area ul li{
+    
+}
+.sidebar-area ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 0;
+    display: block;
+}

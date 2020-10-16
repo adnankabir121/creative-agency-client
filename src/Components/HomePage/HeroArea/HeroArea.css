@@ -1,0 +1,20 @@
+.hero-area{
+    padding: 200px 0;
+    background: url("../../../images/herobg.png") no-repeat;
+}
+.hero-text h1{
+    color: #111430;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 60px;
+    margin-bottom: 23px;
+}
+.hero-text p{
+    color: #1b1b1b;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 23px;
+}
+.hero-text button{
+    margin-bottom: 30px;
+}

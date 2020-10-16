@@ -1,0 +1,26 @@
+.single-feedback{
+    padding: 15px 20px;
+    border: 1px solid #BFBFBF;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.single-feedback p{
+    color: #707070;
+    line-height: 28px;
+}
+.name-with-photo{
+    margin-bottom: 15px;
+}
+.name-with-photo h4{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.name-with-photo h6{
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.name-with-photo img{
+    margin-right: 20px;    
+}

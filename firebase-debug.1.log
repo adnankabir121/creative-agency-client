@@ -1,0 +1,35 @@
+[debug] [2020-10-16T12:17:39.699Z] ----------------------------------------------------------------------
+[debug] [2020-10-16T12:17:39.702Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\adnan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-10-16T12:17:39.703Z] CLI Version:   8.12.1
+[debug] [2020-10-16T12:17:39.703Z] Platform:      win32
+[debug] [2020-10-16T12:17:39.703Z] Node Version:  v12.18.3
+[debug] [2020-10-16T12:17:39.704Z] Time:          Fri Oct 16 2020 18:17:39 GMT+0600 (Bangladesh Standard Time)
+[debug] [2020-10-16T12:17:39.705Z] ----------------------------------------------------------------------
+[debug] [2020-10-16T12:17:39.705Z] 
+[debug] [2020-10-16T12:17:39.713Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-16T12:17:39.713Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  G:\React Project\Assignment 11\creative-client
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
